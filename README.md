@@ -1,2 +1,2 @@
-# E-Book-Landing-Page
-This is a practice page to learn the features of Bootstrap
+# Bootstrap-Tutorial
+This is a practice page to learn some of the features of Bootstrap
